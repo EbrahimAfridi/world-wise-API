@@ -1,0 +1,53 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806759
+    },
+    {
+      "cityName": "Lucknow",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-11-28T07:27:48.192Z",
+      "notes": "",
+      "position": {
+        "lat": "26.832649094634835",
+        "lng": "80.93765258789064"
+      },
+      "id": 98443193
+    },
+    {
+      "cityName": "O Savinao",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-29T16:43:16.759Z",
+      "notes": "haha",
+      "position": {
+        "lat": "42.68243539838623",
+        "lng": "-7.690429687500001"
+      },
+      "id": 98443194
+    },
+    {
+      "cityName": "Budaun",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-13T09:44:17.657Z",
+      "notes": "hahaha",
+      "position": {
+        "lat": "28.028349057505775",
+        "lng": "79.12353515625001"
+      },
+      "id": 98443195
+    }
+  ]
+}
+
